@@ -66,6 +66,7 @@ figcaption{
 }
 
 main{
+    display: flex;
     float: right;
     background:white;
     width: 68.4%;
